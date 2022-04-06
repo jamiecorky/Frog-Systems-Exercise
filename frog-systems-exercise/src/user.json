@@ -1,0 +1,22 @@
+[
+  {
+  "image": "images/kermit.png",
+  "name": "Tod Frogalicious",
+  "department": "Research & Development",
+  "company": "Frog Systems",
+  "moreInfo": {
+    "phone": "07123456789",
+    "email": "tod@frog.net"
+    }
+  },
+  {
+    "image": "images/oscar.png",
+    "name": "Ozzy Frogotastic",
+    "department": "Research & Development",
+    "company": "Frog Systems",
+    "moreInfo": {
+      "phone": "07987654321",
+      "email": "ozzy@frog.net"
+      }
+    }
+]
