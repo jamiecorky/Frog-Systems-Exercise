@@ -2,15 +2,15 @@ import React from 'react';
 import Users from '../user.json';
 import Collapse from './Collapse';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faInfo, faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
+import { faInfo, faEnvelope, faPhone, faArrowDown } from '@fortawesome/free-solid-svg-icons';
 import { faFacebook, faLinkedin, faTwitter } from '@fortawesome/free-brands-svg-icons';
 
 
-const facebook = <a href={'https://www.facebook.com/frogsystems'} target="_blank" className="social-links social-facebook grow">< FontAwesomeIcon icon={faFacebook} size="2x" /></a>
-const linkedIn = <a href={'https://www.linkedin.com/company/frog-systems-ltd'} target="_blank" className="social-links social-linkedin grow">< FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
-const twitter = <a href={'https://twitter.com/frogsystemsltd'} target="_blank" className="social-links social-twitter grow">< FontAwesomeIcon icon={faTwitter} size="2x" /></a>
+const facebook = <a href={'https://www.facebook.com/frogsystems'} target="_blank" rel="noreferrer" className="social-links social-facebook grow">< FontAwesomeIcon icon={faFacebook} size="2x" /></a>
+const linkedIn = <a href={'https://www.linkedin.com/company/frog-systems-ltd'} target="_blank" rel="noreferrer" className="social-links social-linkedin grow">< FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
+const twitter = <a href={'https://twitter.com/frogsystemsltd'} target="_blank" rel="noreferrer" className="social-links social-twitter grow">< FontAwesomeIcon icon={faTwitter} size="2x" /></a>
 
-const info = < FontAwesomeIcon icon={faInfo} pull="right" className='info-icon' />
+const info = < FontAwesomeIcon icon={faArrowDown} pull="right" className='info-icon' />
 
 const phoneIcon = < FontAwesomeIcon icon={faPhone} />
 const mailIcon = < FontAwesomeIcon icon={faEnvelope} />
