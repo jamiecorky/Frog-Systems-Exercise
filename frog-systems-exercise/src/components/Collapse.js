@@ -1,5 +1,5 @@
-import React from 'react'
-import { useState } from 'react'
+import React from 'react';
+import { useState } from 'react';
 import Fade from 'react-reveal/Fade';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowDown } from '@fortawesome/free-solid-svg-icons';
@@ -11,7 +11,7 @@ const Collapse = (props) => {
   return (
     <>
       <button onClick={() => {
-        setButtonIsExpanded(!buttonIsExpanded)
+        setButtonIsExpanded(!buttonIsExpanded);
       }} className='more-info-btn grow'>
         <div className='info-text'>
           {
