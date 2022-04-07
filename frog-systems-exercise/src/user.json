@@ -5,22 +5,44 @@
   "name": "Tod Frogalicious",
   "department": "Research & Development",
   "company": "Frog Systems",
+  "facebook": "https://www.facebook.com/frogsystems",
+  "linkedin": "https://www.linkedin.com/company/frog-systems-ltd",
+  "twitter": "https://twitter.com/frogsystemsltd",
   "moreInfo": {
-    "about": "Hi, I'm Ozzy. I've been working in marketing for 4 years now.",
+    "about": "Hi, I'm Tod. I really enjoy coding and have been a front end developer for 2 years now. Maybe you've seen the cards I designed?",
     "phone": "07123456789",
     "email": "tod@frog.net"
     }
   },
   {
-    "id": 2,
-    "image": "images/oscar.png",
-    "name": "Ozzy Frogotastic",
-    "department": "Marketing",
+  "id": 2,
+  "image": "images/oscar.png",
+  "name": "Ozzy Frogotastic",
+  "department": "Marketing",
+  "company": "Frog Systems",
+  "facebook": "https://www.facebook.com/frogsystems",
+  "linkedin": "https://www.linkedin.com/company/frog-systems-ltd",
+  "twitter": "https://twitter.com/frogsystemsltd",
+  "moreInfo": {
+    "about": "Hi, I'm Ozzy. I've been working in marketing for 4 years now.",
+    "phone": "07987654321",
+    "email": "ozzy@frog.net"
+    }
+  },
+  {
+    "id": 3,
+    "image": "images/kermit.png",
+    "name": "Tod Frogalicious",
+    "department": "Research & Development",
     "company": "Frog Systems",
+    "facebook": "https://www.facebook.com/frogsystems",
+    "linkedin": "https://www.linkedin.com/company/frog-systems-ltd",
+    "twitter": "https://twitter.com/frogsystemsltd",
     "moreInfo": {
-      "about": "Hi, I'm Ozzy. I've been working in marketing for 4 years now.",
-      "phone": "07987654321",
-      "email": "ozzy@frog.net"
+      "about": "Hi, I'm Tod. I really enjoy coding and have been a front end developer for 2 years now. Maybe you've seen the cards I designed?",
+      "phone": "07123456789",
+      "email": "tod@frog.net"
       }
-  }
+    }
+
 ]
