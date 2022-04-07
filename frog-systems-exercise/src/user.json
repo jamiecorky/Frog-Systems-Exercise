@@ -1,22 +1,26 @@
 [
   {
+  "id": 1,
   "image": "images/kermit.png",
   "name": "Tod Frogalicious",
   "department": "Research & Development",
   "company": "Frog Systems",
   "moreInfo": {
+    "about": "Hi, I'm Ozzy. I've been working in marketing for 4 years now.",
     "phone": "07123456789",
     "email": "tod@frog.net"
     }
   },
   {
+    "id": 2,
     "image": "images/oscar.png",
     "name": "Ozzy Frogotastic",
-    "department": "Research & Development",
+    "department": "Marketing",
     "company": "Frog Systems",
     "moreInfo": {
+      "about": "Hi, I'm Ozzy. I've been working in marketing for 4 years now.",
       "phone": "07987654321",
       "email": "ozzy@frog.net"
       }
-    }
+  }
 ]
