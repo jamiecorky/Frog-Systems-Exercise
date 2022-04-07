@@ -26,6 +26,7 @@ The cards have a gradient from bottom to top with a drop shadow to make them sta
 Collapse.js
 This is the more info button. on hover it grows. Because it may not be obvious that it's a button I added a pointer for the cursor and a drop shadow so that it stands out more.
 The button onclick changes the does this:
+- Changes the state from 
 - Extends the size of the button to show a description as requested (I made it an about paragraph).
 - Rotates the arrow 180 degrees with a smooth transition to match the height change transition.
 - 'More Info' becomes 'Less info', and the opposite when clicked again.
