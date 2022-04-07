@@ -12,7 +12,6 @@ const Collapse = (props) => {
     <>
       <button onClick={() => {
         setButtonIsExpanded(!buttonIsExpanded)
-        setIconIsTrue(!iconIsTrue)
       }} className='more-info-btn grow'>
         <div className='info-text'>
           {
